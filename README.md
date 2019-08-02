@@ -1,4 +1,34 @@
-# Signal-processing-notes
-Signal processing method study notes for mechanical fault diagnosis
+# 信号处理算法库
+ 
+ 本项目旨在追踪建立最先进的信号处理算法库。从算法理论原理，实现方法，到落地demo。
+ 目前是个人业余收集和整理，知识和精力都有限，欢迎有识之士参与贡献。
+ 欢迎大家任意Fork,Star,Watch.
+ demo一般来自网络共享开源的资源。或者自己根据论文原理实现。欢迎批评指正。
+ 如涉及侵权，请随时联系删除。
+ 声明：本算法库仅作学习交流之用。如未经许可用作其他商业用途，保留追责权利。
 
-## 1. [最小熵反褶积](https://github.com/hustcxl/Signal-processing-notes/blob/master/MED.md)
+## 1.传统方法
+### 时域
+
+### 频域
+* fft
+### 滤波
+
+### 其他
+
+
+## 2.信号自适应分解
+
+* EMD
+* EEMD
+* VMD
+
+
+## 3.时频分析方法
+
+* STFT
+* SST
+* EWT
+
+
+1. [最小熵反褶积](https://github.com/hustcxl/Signal-processing-notes/blob/master/MED.md)
