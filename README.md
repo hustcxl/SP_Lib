@@ -7,7 +7,7 @@
  如涉及侵权，请随时联系删除。
  声明：本算法库仅作学习交流之用。如未经许可用作其他商业用途，保留追责权利。
 
-## 1.传统方法
+## 1.经典的传统方法
 ### 时域
 时域特征计算相对简单，MATLAB都有非常多的库函数。也有人已经进行了总结。直接引用。源自知乎专栏。  
 * [时域特征值提取的MATLAB代码实现（均方根、峰值因子、脉冲因子、裕度因子、峭度因子、波形因子和偏度等）](https://zhuanlan.zhihu.com/p/36162561)  
@@ -48,16 +48,44 @@
 
 ## 2.信号自适应分解
 
-* EMD
-* EEMD
-* VMD
-
+* 经验模态分解EMD
+* 集成经验模态分解EEMD
+* 变分模态分解VMD
+* 局部均值分解LMD
+* 自适应局部迭代滤波ALIF
+* 非线性模态分解NMD
+* 固有时间尺度分解ITD
+* 希尔伯特振动分解HVD
+* 时变滤波经验模态分解TVF-EMD
+* 一些新的分解方法
+  * 极值点加权模式分解EWMD
+  * 极值点对称模式分解
+  * 辛几何模式分解symplectic geometry mode decomposition
+  * 群分解
+  * 原子分解
 
 ## 3.时频分析方法
 
 * STFT
 * SST
 * EWT
+* 参数化时频分析方法
 
 
-1. [最小熵反褶积](https://github.com/hustcxl/Signal-processing-notes/blob/master/MED.md)
+## 3.冲击特征检测
+
+* 1. [最小熵反褶积](https://github.com/hustcxl/Signal-processing-notes/blob/master/MED.md)
+
+## 4.时间序列熵分析
+* 排列熵(Permutation Entropy,PE)
+* 近似熵（Aproxiamte Entropy，ApEn）
+* 样本熵（Sample Entropy，SampEn）
+* 条件熵（Conditional Entropy）
+* 修正条件熵（Corrected Conditional Entropy）
+* 模糊熵（Fuzzy Entropy，FuzzyEn)
+* 香农熵（Shannon Entropy，SE）
+* 能量熵
+* 谱熵
+* 色散熵Dispersion entropy (DispEn)
+
+
