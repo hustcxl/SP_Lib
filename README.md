@@ -74,7 +74,7 @@
 
 ## 3.冲击特征检测
 
-* 1. [最小熵反褶积](https://github.com/hustcxl/Signal-processing-notes/blob/master/MED.md)
+* [最小熵反褶积](./MED.md)
 
 ## 4.时间序列熵分析
 * 排列熵(Permutation Entropy,PE)
