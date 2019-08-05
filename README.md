@@ -49,11 +49,11 @@
 ## 2.信号自适应分解
 
 * [经验模态分解EMD&EEMD](./doc/EMD.md)
-* [变分模态分解VMD](./doc/VMD.md)
-* 局部均值分解LMD
-* 自适应局部迭代滤波ALIF
+* [变分模态分解(Variational Mode Decomposition,VMD)](./doc/VMD.md)
+* [局部均值分解(local mean decomposition,LMD)](./doc/LMD.md)
+* [自适应局部迭代滤波(Adaptive Local Iterative Filtering,ALIF)](./doc/ALIF.md)
 * 非线性模态分解NMD
-* 固有时间尺度分解ITD
+* [固有时间尺度分解(Intrinsic time-scale decomposition,ITD)](./doc/ITD.md)
 * 希尔伯特振动分解HVD
 * 时变滤波经验模态分解TVF-EMD
 * 一些新的分解方法
