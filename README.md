@@ -48,9 +48,8 @@
 
 ## 2.信号自适应分解
 
-* [经验模态分解EMD](./doc/EMD.md)
-* 集成经验模态分解EEMD
-* 变分模态分解VMD
+* [经验模态分解EMD&EEMD](./doc/EMD.md)
+* [变分模态分解VMD](./doc/VMD.md)
 * 局部均值分解LMD
 * 自适应局部迭代滤波ALIF
 * 非线性模态分解NMD
