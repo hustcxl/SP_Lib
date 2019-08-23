@@ -48,7 +48,7 @@
 
 ## 2.信号自适应分解
 
-* [经验模态分解EMD&EEMD](./doc/EMD.md)
+* [经验模态分解EMD&EEMD及其扩展和改进](./doc/EMD.md)
 * [变分模态分解(Variational Mode Decomposition,VMD)](./doc/VMD.md)
 * [局部均值分解(local mean decomposition,LMD)](./doc/LMD.md)
 * [自适应局部迭代滤波(Adaptive Local Iterative Filtering,ALIF)](./doc/ALIF.md)
