@@ -13,10 +13,16 @@
 * [多元经验模态分解Multivariate Empirical Mode Decomposition](http://www.commsp.ee.ic.ac.uk/~mandic/research/emd.htm)  
  [MEMD 的python 实现](https://github.com/mariogrune/MEMD-Python-)
 * [二元经验模态分解 Bivariate Empirical Mode Decomposition](https://ieeexplore.ieee.org/abstract/document/4358014)
-  虽然有不少论文使用，但目前未见公开的实现算法。计划对其进行实现。
+  
+  虽然有不少论文使用，但目前未见公开的实现算法。计划对其进行实现。  
+* [Bidimensional Multivariate Empirical Mode Decomposition](https://github.com/z-bingo/Bidimensional-Multivariate-Empirical-Mode-Decomposition)   
+* [Fast and Adaptive Multivariate and Multidimensional EMD](https://ww2.mathworks.cn/matlabcentral/fileexchange/71270-fast-and-adaptive-multivariate-and-multidimensional-emd)  
+
+
 ## 相关论文
 - [1] Rehman and D. P. Mandic, "Multivariate Empirical Mode Decomposition", Proceedings of the Royal Society A, 2010
 - [2] G. Rilling, P. Flandrin and P. Goncalves, "On Empirical Mode Decomposition and its Algorithms", Proc of the IEEE-EURASIP Workshop on Nonlinear Signal and Image Processing, NSIP-03, Grado (I), June 2003
 - [3] N. E. Huang et al., "A confidence limit for the Empirical Mode Decomposition and Hilbert spectral analysis", Proceedings of the Royal Society A, Vol. 459, pp. 2317-2345, 2003
-- [4] Rilling G, Flandrin P, Gonçalves P, et al. Bivariate empirical mode decomposition[J]. IEEE signal processing letters, 2007, 14(12): 936-939.
+- [4] Rilling G, Flandrin P, Gonçalves P, et al. Bivariate empirical mode decomposition[J]. IEEE signal processing letters, 2007, 14(12): 936-939.  
+
 [:back:返回主目录](../README.md)
