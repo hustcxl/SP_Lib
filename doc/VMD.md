@@ -9,7 +9,9 @@
 ## 相关论文
 
 * Dragomiretskiy, K. and D. Zosso, Variational Mode Decomposition. IEEE Transactions on Signal Processing, 2014. 62(3): p. 531-544.[论文链接](https://ieeexplore.ieee.org/document/6655981)
-* [二维变分模态分解论文]: ftp://ftp.math.ucla.edu/pub/camreport/cam14-16.pdf  
+* 二维变分模态分解论文 ftp://ftp.math.ucla.edu/pub/camreport/cam14-16.pdf  
+* [Aftab, Hania. "Multivariate Variational Mode Decomposition." arXiv preprint arXiv:1907.04509 (2019).](https://arxiv.org/abs/1907.04509)  
+* [.	Wang, Y., et al., Complex variational mode decomposition for signal processing applications. Mechanical Systems and Signal Processing, 2017. 86: p. 75-85.](https://www.sciencedirect.com/science/article/pii/S0888327016303818)
 
 
-[<<返回主目录](../README.md)
+[:back:返回主目录](../README.md)
