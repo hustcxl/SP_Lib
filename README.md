@@ -67,7 +67,7 @@
 
 * STFT
 * SST
-* EWT
+* [经验小波EWT](./doc/EWT.md)
 * 参数化时频分析方法
 
 
