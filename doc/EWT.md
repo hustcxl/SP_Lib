@@ -5,11 +5,10 @@
 
 ## 相关论文
 - J.Gilles, "Empirical wavelet transform" to appear in IEEE Trans. Signal Processing, 2013.   
-Preprint available at [](ftp://ftp.math.ucla.edu/pub/camreport/cam13-33.pdf)   
+Preprint available at [paper](ftp://ftp.math.ucla.edu/pub/camreport/cam13-33.pdf)   
 - J.Gilles, G.Tran, S.Osher "2D Empirical transforms. Wavelets, Ridgelets and Curvelets Revisited", SIAM Journal on Imaging Sciences, Vol.7, No.1, 157--186, 2014.   
-Preprint available at [](ftp://ftp.math.ucla.edu/pub/camreport/cam13-35.pdf)   
+Preprint available at [paper](ftp://ftp.math.ucla.edu/pub/camreport/cam13-35.pdf)   
 - J.Gilles, K.Heal, "A parameterless scale-space approach to find meaningful modes in histograms - Application to image and spectrum segmentation", submitted 2014.   
-Preprint available at   
-ftp://ftp.math.ucla.edu/pub/camreport/cam14-05.pdf  
+Preprint available at[paper](ftp://ftp.math.ucla.edu/pub/camreport/cam14-05.pdf)  
 
 [:back:返回主目录](../README.md)
