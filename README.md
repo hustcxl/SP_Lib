@@ -76,9 +76,9 @@
 * [最小熵反褶积](./MED.md)
 
 ## 4.时间序列熵分析
-* 排列熵(Permutation Entropy,PE)
-* 近似熵（Aproxiamte Entropy，ApEn）
-* 样本熵（Sample Entropy，SampEn）
+* [排列熵(Permutation Entropy,PE)](./doc/PE.md)
+* [近似熵（Approxiamte Entropy，ApEn）](./doc/ApEn.md)
+* [样本熵（Sample Entropy，SampEn)](./doc/SamEn.md)
 * 条件熵（Conditional Entropy）
 * 修正条件熵（Corrected Conditional Entropy）
 * 模糊熵（Fuzzy Entropy，FuzzyEn)
