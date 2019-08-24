@@ -14,7 +14,8 @@
  [MEMD 的python 实现](https://github.com/mariogrune/MEMD-Python-)
 * [二元经验模态分解 Bivariate Empirical Mode Decomposition](https://ieeexplore.ieee.org/abstract/document/4358014)
   
-  虽然有不少论文使用，但目前未见公开的实现算法。计划对其进行实现。  
+  参见函数Rilling G工具箱的函数cemdc2_fix，bivariate_EMD_illustration为海洋漂流位置信号的应用。
+  [G-Rilling EMD工具箱](http://blog.sina.com.cn/s/blog_6163bdeb0102e2cd.html)  
 * [Bidimensional Multivariate Empirical Mode Decomposition](https://github.com/z-bingo/Bidimensional-Multivariate-Empirical-Mode-Decomposition)   
 * [Fast and Adaptive Multivariate and Multidimensional EMD](https://ww2.mathworks.cn/matlabcentral/fileexchange/71270-fast-and-adaptive-multivariate-and-multidimensional-emd)  
 
