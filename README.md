@@ -69,7 +69,7 @@
 * SST
 * [经验小波EWT](./doc/EWT.md)
 * 参数化时频分析方法
-
+* [Time-frequency ridge detection](./doc/TFRD.md)
 
 ## 3.冲击特征检测
 
