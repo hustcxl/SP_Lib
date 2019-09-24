@@ -52,7 +52,7 @@
 * [变分模态分解(Variational Mode Decomposition,VMD)](./doc/VMD.md)
 * [局部均值分解(local mean decomposition,LMD)](./doc/LMD.md)
 * [自适应局部迭代滤波(Adaptive Local Iterative Filtering,ALIF)](./doc/ALIF.md)
-* 非线性模态分解NMD
+* [非线性模态分解 Nonlinear Mode Decomposition.NMD](./doc/NMD.md)
 * [固有时间尺度分解(Intrinsic time-scale decomposition,ITD)](./doc/ITD.md)
 * 希尔伯特振动分解HVD
 * 时变滤波经验模态分解TVF-EMD
