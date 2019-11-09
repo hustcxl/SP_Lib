@@ -54,7 +54,7 @@
 * [自适应局部迭代滤波(Adaptive Local Iterative Filtering,ALIF)](./doc/ALIF.md)
 * [非线性模态分解 Nonlinear Mode Decomposition.NMD](./doc/NMD.md)
 * [固有时间尺度分解(Intrinsic time-scale decomposition,ITD)](./doc/ITD.md)
-* [希尔伯特振动分解HVD](./doc/HVD.md)
+* [希尔伯特振动分解(Hilbert Vibration Decomposition,HVD)](./doc/HVD.md)
 * [时变滤波经验模态分解TVF-EMD](./doc/TVF_EMD.md)
 * 一些新的分解方法
   * 极值点加权模式分解EWMD
@@ -86,5 +86,7 @@
 * 能量熵
 * 谱熵
 * 色散熵Dispersion entropy (DispEn)
+
+[:top:返回顶部](#信号处理算法库)
 
 
