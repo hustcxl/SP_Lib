@@ -56,6 +56,7 @@
 * [固有时间尺度分解(Intrinsic time-scale decomposition,ITD)](./doc/ITD.md)
 * [希尔伯特振动分解(Hilbert Vibration Decomposition,HVD)](./doc/HVD.md)
 * [时变滤波经验模态分解TVF-EMD](./doc/TVF_EMD.md)
+* [奇异谱分解 Singular Spectrum Decomposition,SSD](./doc/SSD.md)
 * 一些新的分解方法
   * 极值点加权模式分解EWMD
   * 极值点对称模式分解
