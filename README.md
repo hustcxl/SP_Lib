@@ -61,7 +61,7 @@
   * 极值点加权模式分解EWMD
   * 极值点对称模式分解
   * 辛几何模式分解symplectic geometry mode decomposition
-  * 群分解
+  * [群分解(Swarm-Decomposition,SwD)](./doc/SwD.md)
   * 原子分解
 
 ## 3.时频分析方法
