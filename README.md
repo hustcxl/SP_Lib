@@ -57,6 +57,7 @@
 * [希尔伯特振动分解(Hilbert Vibration Decomposition,HVD)](./doc/HVD.md)
 * [时变滤波经验模态分解TVF-EMD](./doc/TVF_EMD.md)
 * [奇异谱分解 (Singular Spectrum Decomposition,SSD)](./doc/SSD.md)
+* [经验小波EWT](./doc/EWT.md)
 * 一些新的分解方法
   * 极值点加权模式分解EWMD
   * 极值点对称模式分解
@@ -68,8 +69,6 @@
 * [TFAT 时频工具](./doc/TFA_Tools.md)
 * STFT
 * SST
-* [经验小波EWT](./doc/EWT.md)
-* 参数化时频分析方法
 * [Time-frequency ridge detection](./doc/TFRD.md)
 
 ## 3.冲击特征检测
