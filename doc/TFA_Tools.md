@@ -9,7 +9,7 @@
   
   From The University of Queensland.
 
-- [DiscreteTFDs](http://tfd.sourceforge.net/)  
+- [DiscreteTFDs-PTFA](http://tfd.sourceforge.net/)  
   
   from Jeffrey C. O'Neill
 
