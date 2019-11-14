@@ -55,7 +55,7 @@
 * [非线性模态分解 Nonlinear Mode Decomposition.NMD](./doc/NMD.md)
 * [固有时间尺度分解(Intrinsic time-scale decomposition,ITD)](./doc/ITD.md)
 * [希尔伯特振动分解(Hilbert Vibration Decomposition,HVD)](./doc/HVD.md)
-* [时变滤波经验模态分解TVF-EMD](./doc/TVF_EMD.md)
+* [时变滤波经验模态分解Time varying filter based empirical mode,TVF-EMD](./doc/TVF_EMD.md)
 * [奇异谱分解 (Singular Spectrum Decomposition,SSD)](./doc/SSD.md)
 * [经验小波 Empirical Wavelet Transforms,EWT](./doc/EWT.md)
 * 一些新的分解方法
