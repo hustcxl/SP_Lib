@@ -19,6 +19,7 @@
 * [Bidimensional Multivariate Empirical Mode Decomposition](https://github.com/z-bingo/Bidimensional-Multivariate-Empirical-Mode-Decomposition)   
 * [Fast and Adaptive Multivariate and Multidimensional EMD](https://ww2.mathworks.cn/matlabcentral/fileexchange/71270-fast-and-adaptive-multivariate-and-multidimensional-emd)  
 * [Robust Empirical Mode Decomposition (REMD)](https://ww2.mathworks.cn/matlabcentral/fileexchange/70032-robust-empirical-mode-decomposition-remd) 
+* [Complex Empirical Mode Decomposition]()
 
 
 
@@ -29,5 +30,6 @@
 - [4] Rilling G, Flandrin P, Gonçalves P, et al. Bivariate empirical mode decomposition[J]. IEEE signal processing letters, 2007, 14(12): 936-939.  
 - [5] Dandan Peng, Zhiliang Liu, Yaqiang Jin, Yong Qin. Improved EMD with a Soft Sifting Stopping Criterion and Its Application to Fault Diagnosis of Rotating Machinery. Journal of Mechanical Engineering. 55 (10): 122-132, 2019.
 - [6] Zhiliang Liu, Yaqiang Jin, Ming J. Zuo, and Zhipeng Feng. Time-frequency representation based on robust local mean decomposition for multi-component AM-FM signal analysis. Mechanical Systems and Signal Processing. 95: 468-487, 2017.
+- [7].	Tanaka, T. and D.P. Mandic, Complex Empirical Mode Decomposition. IEEE Signal Processing Letters, 2007. 14(2): p. 101-104. [link](https://ieeexplore.ieee.org/document/4063369)
 
 [:back:返回主目录](../README.md)
