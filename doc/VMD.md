@@ -5,6 +5,7 @@
 * [二维紧致变分模分解 Two-Dimensional Compact Variational Mode Decomposition ](https://ww2.mathworks.cn/matlabcentral/fileexchange/67285-two-dimensional-compact-variational-mode-decomposition-2d-tv-vmd?s_tid=FX_rc2_behav)
 * [二维变分模态分解 Two-dimensional Variational Mode Decomposition](https://ww2.mathworks.cn/matlabcentral/fileexchange/45918-two-dimensional-variational-mode-decomposition?s_tid=FX_rc2_behav) 
 * [VMD的python实现](https://github.com/vrcarva/vmdpy)
+* [复值变分模态分解CVMD]()
 
 ## 相关论文
 
