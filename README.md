@@ -93,6 +93,7 @@
 * [Digital Signal Processing for Javascript](https://github.com/corbanbrook/dsp.js)
 * [Numerical Tours of Signal Processing](https://github.com/gpeyre/numerical-tours)
 * [Digital Signal Processing - Theory and Computational Examples ](https://github.com/spatialaudio/digital-signal-processing-lecture)
+* [Signal Processing Tools for MATLAB](https://github.com/JacobD10/SoundZone_Tools)
 
 [:top:返回顶部](#信号处理算法库)
 
