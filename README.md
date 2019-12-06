@@ -90,6 +90,9 @@
 
 ## 5.一些开源的信号处理综合算法资源
 * [Python for signal processing](https://github.com/unpingco/Python-for-Signal-Processing)
+* [Digital Signal Processing for Javascript](https://github.com/corbanbrook/dsp.js)
+* [Numerical Tours of Signal Processing](https://github.com/gpeyre/numerical-tours)
+* [Digital Signal Processing - Theory and Computational Examples ](https://github.com/spatialaudio/digital-signal-processing-lecture)
 
 [:top:返回顶部](#信号处理算法库)
 
