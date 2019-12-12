@@ -16,6 +16,7 @@
 * [时域分析——无量纲特征值含义一网打尽](https://zhuanlan.zhihu.com/p/57445453)    
 * [时域分析——有量纲特征值含义一网打尽](https://zhuanlan.zhihu.com/p/57153601)  
 * [python实现信号时域统计特征提取](https://blog.csdn.net/qq_34705900/article/details/88389319)  
+* [Envelope Detction for Signal Analysis](https://ww2.mathworks.cn/matlabcentral/fileexchange/37545-envelope-detction-for-signal-analysis?s_tid=FX_rc1_behav)
 
 ### 频域
 * [信号频域分析方法的理解（频谱、能量谱、功率谱、倒频谱、小波分析）](https://zhuanlan.zhihu.com/p/34989414)
