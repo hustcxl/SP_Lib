@@ -60,6 +60,7 @@
 * [时变滤波经验模态分解Time varying filter based empirical mode,TVF-EMD](./doc/TVF_EMD.md)
 * [奇异谱分解 (Singular Spectrum Decomposition,SSD)](./doc/SSD.md)
 * [经验小波 Empirical Wavelet Transforms,EWT](./doc/EWT.md)
+* [短时窄带模式分解 short-time narrow-banded mode decomposition](./doc/STNBMD.md)
 * 一些新的分解方法
   * 极值点加权模式分解EWMD
   * 极值点对称模式分解
